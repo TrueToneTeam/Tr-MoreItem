@@ -1,0 +1,7 @@
+name: Tr-MoreItem
+api: [3.0.0]
+main: TrueToneTeam\MoreItem\MoreItem
+version: "1.0.0"
+author: Luna
+
+mcpe-protocol: [448]
